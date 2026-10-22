@@ -1,6 +1,6 @@
 ---
 title: KarmaDisk
-tagline: Reclaim disk space with guided cleanup.
+tagline: Free disk maps and guided cleanup.
 icon: ./icon.png
 link: https://www.karmadisk.eu/
 developerName: Christopher Naas
@@ -12,7 +12,7 @@ isSubscription: false
 tags: ["disk utility", "photos", "file management"]
 ---
 
-KarmaDisk helps Mac users inspect disk usage, find duplicate files, and work through cleanup with step-by-step wizards. Its interactive storage map shows where space is being used. File analysis runs locally, and users review changes before removing originals.
+KarmaDisk is free to download, with free disk maps, duplicate finding, and step-by-step cleanup wizards. Its interactive storage map shows where space is being used. File analysis runs locally, and users review changes before removing originals.
 
 Photo workflows gather scattered pictures into Apple Photos and compress supported JPEG, PNG, and TIFF images without losing image quality. A separate JPEG XL workflow verifies exact reconstruction of the original JPEG; JPEG XL compatibility varies between applications. HEIC, RAW, Live Photos, and videos are not covered by the Photos compression workflow.
 
